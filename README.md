@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ... anything, looking for side projects.
 - 📫 How to reach me ... 
 
-[johnsosoka.com](https://www.johnsosoka.com)
+[johnsosoka.com](https://www.johnsosoka.com/contact)
