@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @johnsosoka
-- 👀 I’m interested in ... python & java development
+- 👀 I’m interested in ... LLM app development, agent design & orchestration.
 - 💞️ I’m looking to collaborate on ... anything, looking for side projects.
+- 🤖 java & python development.
 - 📫 How to reach me ... [contact](https://www.johnsosoka.com/contact)
